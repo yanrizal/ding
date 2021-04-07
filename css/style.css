@@ -469,6 +469,7 @@ img, img.responsive {
     display: inline-block;
     width: 100%;
 	padding-top: 5px;
+	height: 1295px;
 }
 .gk-list li {
 	font-size: 17px;
@@ -717,14 +718,23 @@ img, img.responsive {
 	padding-right: 8px;
 }
 .pricing-box .price h6 { 
-	font-size: 90px;
+	font-size: 65px;
 	line-height: 90px;
 	padding-left: 20px;
 	margin-top: 15px;
 	margin-bottom: 20px;
 }
+.pricing-head-list{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.pricing-head-list2{
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
 .price .per-month { 
-	font-size: 17px;
+	font-size: 14px;
 	line-height: 20px;
 }
 .pricing-box ul {
